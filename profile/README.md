@@ -1,7 +1,5 @@
 ## Olá 👋
 
-<!--
-
 **Quem nós somos:**
 Somos o Clube Siga, uma equipe apaixonada de consultores e desenvolvedores de software dedicados a ensinar e criar soluções inovadoras e capacitar negócios.
 
@@ -31,4 +29,3 @@ Somos o Clube Siga, uma equipe apaixonada de consultores e desenvolvedores de so
 🍿 Fun facts - what does your team eat for breakfast?
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
