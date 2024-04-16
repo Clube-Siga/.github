@@ -1,9 +1,9 @@
 ## Olá 👋
 
-**Quem nós somos:**
+**Quem somos:**
 Somos o Clube Siga, uma equipe apaixonada de consultores e desenvolvedores de software dedicados a ensinar e criar soluções inovadoras e capacitar negócios.
 
-🙋‍♀️ O que nós fazemos ?
+### O que nós fazemos ? :man_technologist:	
     Arquitetamos e desenvolvemos aplicativos web e móveis de alto nível, adaptados às suas necessidades exclusivas.
     Nossa metodologia ágil garante entrega eficiente de projetos e melhoria contínua.
     Fornecemos manutenção e suporte contínuos para manter seu software funcionando perfeitamente.
